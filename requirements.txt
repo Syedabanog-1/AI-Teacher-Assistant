@@ -1,0 +1,8 @@
+openai-agents
+python-dotenv
+asyncio
+chainlit
+streamlit
+pydantic
+typing
+dataclasses
