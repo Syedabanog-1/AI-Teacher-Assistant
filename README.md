@@ -83,7 +83,12 @@ Return Answer ──────────────────────
 └─────────────────────┘
 
 https://github.com/user-attachments/assets/99c51d02-7357-45af-813c-e427dcf70905
+
 https://ai-teacher-assistant-shcyauotifsqnzxhzer5kb.streamlit.app/
+
+https://github.com/user-attachments/assets/19521b42-9eeb-4cd9-8a26-cebf429f6d16
+
+
 
 
 
