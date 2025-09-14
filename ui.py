@@ -637,5 +637,4 @@ def show_change_student_section():
         st.json(asdict(st.session_state.profile))
 
 if __name__ == "__main__":
->>>>>>> 28374f091d58c4cbdc38b607ec88b26ae7fd9863
-    main()
+main()
