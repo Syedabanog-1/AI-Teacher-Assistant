@@ -43,6 +43,10 @@ If subject or student is changed → System updates the profile.
 Loop continues until user quits.
 
 
+
+https://github.com/user-attachments/assets/003730a6-2f48-40c6-bdd8-c6e2524ac6c2
+
+
 https://github.com/user-attachments/assets/99c51d02-7357-45af-813c-e427dcf70905
 
 https://ai-teacher-assistant-shcyauotifsqnzxhzer5kb.streamlit.app/
